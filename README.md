@@ -9,7 +9,7 @@
 Link Projeto: https://desafioescribo.netlify.app/
 
 ### 2º
-Ou adicionar os arquivos no Visual Studio ou rodar em um compilador online, basta copiar o código do arquivo javascript e colar no compilador online: 
+Adicionar os arquivos no Visual Studio ou rodar em um compilador online, basta copiar o código do arquivo javascript e colar no compilador online: 
 
 Compilador: https://www.programiz.com/javascript/online-compiler/
 
@@ -18,5 +18,5 @@ Compilador: https://www.programiz.com/javascript/online-compiler/
 
  Link projeto: https://desafio-escribo-vf.flutterflow.app/
  
-• Outra forma de rodar o código em dart é atraves do compilador online
+• Para rodar o código em dart é possível através do compilador online.
 Compilador: https://www.jdoodle.com/execute-dart-online/
