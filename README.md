@@ -17,3 +17,6 @@ Compilador: https://www.programiz.com/javascript/online-compiler/
 - O Flutterflow é uma plataforma de desenvolvimento low code para criação de aplicações Flutter.
 
  Link projeto: https://desafio-escribo-vf.flutterflow.app/
+ 
+• Outra forma de rodar o código em dart é atraves do compilador online
+Compilador: https://www.jdoodle.com/execute-dart-online/
